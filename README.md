@@ -9,6 +9,7 @@ It was created for ARM architecture processors such as the Cortex A7, but it is 
 Two librairies are used:
 - OpenCV
 - RaspiCam
+
 They are open source.
 
 The system is composed by:
