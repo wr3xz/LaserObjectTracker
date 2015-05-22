@@ -6,12 +6,12 @@ LoT is an image processing embedded system designed to automatically detect, tra
 
 It was created for the ARM architecture, but it is possible to compile the C++ code to another one.
 
-Two librairies are needed :
+Two librairies are used:
 - OpenCV
 - RaspiCam
 They are open source.
 
-The system is composed by :
+The system is composed by:
 - A Raspberry Pi B to detect and command servomotors
 - A Raspberry Pi Camera to take screenshots of the environment
 - A home-made electronic circuit to adapt the power
