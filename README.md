@@ -1,4 +1,4 @@
-# LaserObjectTracker
+# LoT - The Laser Object Tracker
 Welcome to the official repository for the LoT Project.
 This project is distributed under the GNU General Public License v2.
 
