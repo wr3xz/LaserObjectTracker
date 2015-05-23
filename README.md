@@ -4,6 +4,8 @@ This project is distributed under the GNU General Public License v2.
 
 LoT is an embedded system designed to automatically detect, track and point a ball using a Raspberry Pi camera and servomotors.
 
+https://cloud.githubusercontent.com/assets/10380160/7783143/504711e2-0137-11e5-8733-c315ee710671.jpg
+
 It was created for ARM architecture processors such as the Cortex A7, but it is possible to compile the C++ code to another one.
 
 Two librairies are used:
