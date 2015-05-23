@@ -21,5 +21,8 @@ The system is composed by:
 - A laser to point the ball
 - 2 servomotors which control the x and y axis.
 
+-----------------------------
+Source codes are coming soon.
+
 ----------
 @BTR team.
