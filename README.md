@@ -6,7 +6,7 @@ LoT is an embedded system designed to automatically detect, track and point a ba
 
 ![alt tag](https://cloud.githubusercontent.com/assets/10380160/7783192/2d01ef70-0139-11e5-8975-65940e033ab0.jpg)
 
-It was created for ARM architecture processors such as the Cortex A7, but it is possible to compile the C++ code to another one.
+It was created for ARM architecture processors such as the Cortex A7, and it is written in the C++ language.
 
 Two librairies are used:
 - OpenCV
