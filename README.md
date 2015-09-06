@@ -24,7 +24,7 @@ The system is composed by:
 - 2 servomotors which control the x and y axis.
 
 -----------------------------
-Edit (8/09/2015): Source codes are now available!
+Source codes are now available!
 
 ----------
 @BTR team.
