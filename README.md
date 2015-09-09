@@ -1,6 +1,6 @@
 # LoT - The Laser Object Tracker
 Welcome to the official repository dedicated to the LoT Project.
-This project is distributed under the GNU General Public License v2.
+This project is distributed under the GNU General Public License v2 or later.
 
 LoT is an embedded system designed to automatically detect, track and point a ball using a Raspberry Pi camera and servomotors.
 
