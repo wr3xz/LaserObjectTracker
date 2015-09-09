@@ -16,7 +16,7 @@ Two librairies are used:
 
 They are open source.
 
-The system is composed by:
+Here is what you need:
 - A Raspberry Pi B to detect and command servomotors
 - A Raspberry Pi Camera to take screenshots of the environment
 - A home-made electronic circuit to adjust the power
