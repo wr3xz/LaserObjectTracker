@@ -21,7 +21,7 @@ Here is what you need:
 - A Raspberry Pi Camera to take screenshots of the environment
 - A home-made electronic circuit to adjust the power
 - A laser to point the ball
-- 2 servomotors which control the x and y axis.
+- 2 servomotors to control the x and y axis.
 
 -----------------------------
 Source codes are now available!
