@@ -12,7 +12,7 @@ It was created for ARM architecture processors such as the Cortex A7, and it is 
 
 Two librairies are used:
 - OpenCV (http://opencv.org/)
-- RaspiCam
+- RaspiCam (https://github.com/cedricve/raspicam)
 
 They are open source.
 
