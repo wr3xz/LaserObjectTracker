@@ -1,0 +1,17 @@
+# 1.
+Cxx=g++
+# 2.
+CXXFLAGS = -I/usr/local/include/ -I/usr/include/opencv2 -O0 -g3 -Wall -c
+# 3.
+LIBS = -L/usr/local/lib/ -L/usr/lib/ -lpwm -lwiringPi -lrt -lpthread -ldl -lm -std=gnu++0x -std=c++0x -lopencv_core -lopencv_highgui -lopencv_imgproc -lopencv_video -lraspicam -lraspicam_cv -lopencv_core
+# Project Name VisualTracker
+  VisualTracker: acqui_v3.o pwm.a
+		g++ -g -o $@ $^ $(LIBS)
+  acqui_v3.o: acqui_v3.cpp
+		g++ -c $< -o $@ 
+  pwm.a: pwm.o
+	ar rcs $@ $^
+  pwm.o: pwm.c pwm.h
+	gcc -c -o $@ $< 	
+clean:
+	rm *.o 
